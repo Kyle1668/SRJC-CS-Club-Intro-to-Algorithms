@@ -1,8 +1,4 @@
-## MIT CS 6.006 Intro to Algorithms
-## SRJC CS Club Study Group
-#### PM: Kyle O’Brien
-#
-#
+## MIT CS 6.006 Intro to Algorithms: SRJC CS Club Study Group
 
 #### Summary
 A strong knowledge of data structures and algorithms is an essential tool for any aspiring software developer and the foundation of most technical interviews. This course which is MIT’s equivalent of CS11 goes into greater depth. It is taught with a pure academic computer science approach, thus there will be an emphasis on a mathematical mindset.
